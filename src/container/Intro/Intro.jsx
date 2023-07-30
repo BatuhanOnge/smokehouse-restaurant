@@ -21,7 +21,7 @@ const Intro = () => {
   return(
 
   <div className='app__video'>
-    <video 
+    <video className='app__vid' 
       src={meal}
       ref={vidRef}
       type="video/mp4"

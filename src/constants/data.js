@@ -2,57 +2,57 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Dana Brisket',
+    price: '86₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş 200 gr. Brisket, Horseradish, Patates, Cole Slaw, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Brisket Burger',
+    price: '43₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş Brisket, Patates, Cole Slaw, Horseradish Sos, Demi Glace Barbekü Sos',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Dana Kaburga',
+    price: '92₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş 400 gr. Kemikli Kaburga, Patates, Cole Slaw, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Tiftik Burger',
+    price: '47₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş Kaburga, Patates, Cole Slaw, Horseradish Sos, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Lokma Kaburga',
+    price: '95₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş 170 gr. Kaburga, Patates, Cole Slaw, Demi Glace Barbekü Sos',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Cheddarlı Tiftik Burger',
+    price: '49₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş Kaburga, Patates, Cole Slaw, Horseradish Sos, Demi Glace Barbekü Sos',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Tadım Menüsü",
+    price: '97₺',
+    tags: 'Mini Tiftik ve Brisket Burger, Brisket, Lokma Kaburga, Patates, Cole Slaw, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Ikili Mini Burger',
+    price: '38₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş Kaburga ve Döş, Patates, Cole Slaw, Horseradish Sos, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Just Kombo',
+    price: '189₺',
+    tags: 'Kiraz Odunuyla Tütsülenmiş Kaburga, Brisket ve Sosis Patates, Cole Slaw, Demi Glace Barbekü Sos',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Hot Dog',
+    price: '39₺',
+    tags: 'Tütsülü Sosis, Patates, Cole Slaw, Horseradish Sos, Demi Glace Barbekü Sos',
   },
 ];
 

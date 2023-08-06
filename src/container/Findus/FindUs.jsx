@@ -7,7 +7,7 @@ const FindUs = () => (
   <div className='app__bg app__wrapper section__padding' id='contact'>
     <div className='app__wrapper__info'>
       <SubHeading title='Contact' />
-      <h1 className='headtext__cormorant' style={{marginBottom:'3rem'}}>Find Us</h1>
+      <h1 className='headtext__cormorant' style={{marginBottom:'3rem'}}>İletişim</h1>
       <div className='app__wrapper-content'>
         <p className='p__opensans'>Lane Ends Bungalow, Whatcroft Hall Lane, Rudheath, CW9 7SG</p>
         <p className='p__cormorant' style={{color:'#DCCA87', margin: '2rem 0'}}>Opening Hours</p>

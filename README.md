@@ -1,1 +1,1 @@
-Smokehouse Restaurant Web Page
+Smokehouse Restaurant Web Page.

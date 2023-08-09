@@ -1,1 +1,1 @@
-Smoking Restaurant Web Page
+Smokehouse Restaurant Web Page
